@@ -13,8 +13,6 @@ Edit or update existing contact information
 
 Delete contacts with confirmation
 
-Search and filter functionality (optional, if added)
-
 🧩 Tech Stack
 
 Backend: Node.js, Express.js
